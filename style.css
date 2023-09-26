@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
+div#container{
+    width: 942px;
+    height: 2000px;
+}
+div.red1{
+    width: 7%;
+    height: 60px;
+    margin: 2px;
+    background-color: red;
+    float: left;
+}
+div.red2{
+    width: 92%;
+    height: 60px;
+    margin: 2px;
+    background-color: red;
+    float: right;
+    font-family: 'Mooli', sans-serif;
+    text-align: center;
+    font-size: larger;
+}
+div#left{
+    float: left;
+}
+div#right{
+    float: right;
+}
+div.blue1{
+    background-color: aqua;
+    width: 150px;
+    height: 250px;
+    margin: 2px;
+}
+div.blue2{
+    background-color: aqua;
+    width: 150px;
+    height: 420px;
+    margin: 2px;
+    text-align: center;
+    margin-top: -20px;
+}
+div.green1{
+    background-color: greenyellow;
+    width: 550px;
+    height: 420px;
+    margin: 2px;
+    display: flex;
+    text-align: center;
+}
+div.green2{
+    background-color: greenyellow;
+    width: 550px;
+    height: 252px;
+    margin: 2px;
+    display: flex;
+}
+div.pink1{
+    background-color: palevioletred;
+    width: 234px;
+    height: 200px;
+    margin-top: -675px;
+}
+div.pink2{
+    background-color: palevioletred;
+    height: 220px;
+    margin-top: -15px;
+}
+div.pink3{
+    background-color: palevioletred;
+    height: 243px;
+    margin-top: 5px;
+}
+#lorem1{
+    width: 50%;
+    float: left;
+    text-align: left;
+    margin: 5px;
+}
+#lorem2{
+    width: 50%;
+    float: right;
+    text-align: right;
+    margin: 5px;
+}
+a:hover{
+    background-color: rgb(153, 122, 182);
+}
+
+
